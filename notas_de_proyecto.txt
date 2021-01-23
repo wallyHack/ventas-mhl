@@ -1,0 +1,98 @@
+https://www.youtube.com/watch?v=HH_SMpxV7qQ&list=PLP7LlHfxfuM_aACj66x73ETUWUL0bVZ8O
+>> https://www.youtube.com/watch?v=1Lv8mJczfpg&list=PLP7LlHfxfuM_aACj66x73ETUWUL0bVZ8O&index=2 
+min 13
+
+- maquetar prototipos
+adobe xd
+
+- maquetación de contenido
+FLOAT, FLEX BOX y CSS GRID
+FLEX BOX: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+- extensiones a utilizar en vscode
+live server
+vscode icons
+
+- referencia de etiquetas
+https://htmlreference.io/
+https://cssreference.io/
+www.w3schools.com
+
+- colores primarios y secundarios
+colorhunt.co
+https://htmlcolorcodes.com/es/
+
+- mejorar el color con tonalidades 
+https://color.adobe.com/es/create/color-wheel
+
+- página para elegir gradientes y colores
+https://uigradients.com/#Sunkist
+
+- tipos de letra 
+google fonts(Perzonalizar una y ponerla en el head)
+
+- páginas de iconos
+icofinder
+flaticon
+iconos8
+
+- diseño web moderno
+usar imagenes o elementos en formato svg(No pierden su resolución y son muy ligeros)
+undraw.co => página con imágenes gratuitas
+unsplash  => imágenes libres de derechos de autor
+
+- generador de WAVES para HTML
+https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections
+
+- elementos en linea
+se apilan uno al lado del otro
+* lista de elementos en linea
+https://developer.mozilla.org/es/docs/Web/HTML/Elementos_en_l%C3%ADnea
+
+- elementos de bloque
+ocupan todo el ancho de la página y generan un salto de linea automaticamente
+* lista de elementos en bloque
+https://developer.mozilla.org/es/docs/Web/HTML/Block-level_elements
+
+- página para obtener emojis
+getemoji.com
+
+- página de referencia de selectores => developer mozilla
+https://developer.mozilla.org/es/docs/Web/CSS/Selectores_CSS
+
+- herramienta para generar sombras de forma automatica en CSS
+https://www.cssmatic.com/box-shadow
+
+- combinar colores con una imagen dada (IMPORRTANTE)
+https://www.canva.com/colors/color-palette-generator/
+
+- eliminar el fondo de una imagen
+https://www.remove.bg/upload
+
+DISEÑO WEB
+- elementos en bloque
+tienen tamaño personalizado y generan un salto de linea; son elementos estructurales
+
+- elementos en linea
+tienen tamaño determinado y estan apilados el uno al otro
+
+- propiedad display
+valores: none, block, inline, inline-block(Están el la misma linea y tienen tamaño personalizado)
+
+MODELO DE CAJA TRADICIONAL
+- establece que los elementos pueden flotar a cada lado de la ventana y compartir espacio en la
+misma línea con otros elementos, sin importar su tipo. 
+
+- propiedad float.- flota elementoa hacia los lados
+valores:  none (el elemento no flota), left (el elemento flota hacia la
+izquierda) y right (el elemento flota hacia la derecha)
+
+- propiedad clear
+Esta propiedad restaura el flujo normal del documento, y no permite que el
+elemento siga flotando hacia la izquierda, la derecha o ambos lados. Los valores
+disponibles son none, left, right, y both (ambos).
+
+- para agregar un tipo de fuente de google fonts
+copiar y pegar la etiqueta link en el header
+y  poner el font-family en los estilos
+
